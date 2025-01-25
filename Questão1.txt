@@ -1,0 +1,27 @@
+1) Observe o trecho de código abaixo:
+
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+
+
+
+Ao final do processamento, qual será o valor da variável SOMA?
+
+    O valor da variável SOMA será 91.
+
+    O programa está calculando a soma dos primeiros 13 números inteiros (de 1 a 13), e armazenando o resultado na variável SOMA. 
+    A cada iteração do loop, o valor de K é incrementado em 1 e adicionado à variável SOMA. 
+    No final do loop, SOMA terá o valor da soma dos números de 1 a 13, que é igual a 91.
+
+    
